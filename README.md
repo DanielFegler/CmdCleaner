@@ -1,4 +1,4 @@
-CmdCleaner
+CmdCleaner - English
 ----------
 (by Dániel Fegler 2018.12.10 - www.cmd-scripts.com)
 Clean Microsoft Windows based computer with available materials on Command Script.
@@ -30,7 +30,7 @@ Website = https://www.malwarebytes.com/adwcleaner/
 
 
 
-CmdCleaner
+CmdCleaner - German
 ----------
 (by Dániel Fegler 2018.12.10 - www.cmd-scripts.de)
 Microsoft Windows Computer mit Boardmittel über Command-Script bereinigen.
