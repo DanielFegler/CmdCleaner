@@ -1,4 +1,4 @@
-CmdCleaner - English
+CmdCleaner
 ----------
 (by Dániel Fegler 2018.12.10 - www.cmd-scripts.com)
 Clean Microsoft Windows based computer with available materials on Command Script.
@@ -26,34 +26,3 @@ For Windows operating systems over v6.1 (and server versions). Program start pos
 
 HINT:
 Use AdwCleaner for problems with Adware, Toolbars, Hijacker, etc. https://www.malwarebytes.com/adwcleaner/
-
-
-
-CmdCleaner - German
-----------
-(by Dániel Fegler 2018.12.10 - www.cmd-scripts.de)
-Microsoft Windows Computer mit Boardmittel über Command-Script bereinigen.
-
-VERWENDUNG:
-"CmdCleaner" ausführen. Konfiguration wird über ein Menü eingestellt. Die Einstellungen werden bei Ausführung automatisch gespeichert. Folgende Optionen sind möglich:
-
-	[Benutzer]
-	W.M.C.P - Windows Master Control Panel (GodMode)
-	Windows - Temporäre Dateien löschen
-	Windows - Nicht benötigte Dateien löschen
-	Browser - Browser Caches löschen
-	Windows Datenträgerbereinigung ausführen
-	Windows Datenträgerbereinigung einstellungen
-	[Administrator]
-	Windows ServicePack Installationsbereinigung
-	Windows Memory Diagnostic Tool
-	Windows Performance Monitoring Tool
-
-INFORMATION:
-Für Windows Betriebssysteme ab v6.1 geeignet (auch Server-Versionen). Programmstart mit parameter möglich:
-
-	/! = Bereinigung ausführen
-	/? = Informationen anzeigen
-
-TIPP:
-Bei Adware, Toolbars, Hijacker, usw. AdwCleaner verwenden. https://de.malwarebytes.com/adwcleaner/
