@@ -1,9 +1,10 @@
 CmdCleaner
 ----------
 (by Dániel Fegler 2018.12.10 - www.cmd-scripts.com)
+
+
 Clean Microsoft Windows based computer with available materials on Command Script.
 
-USAGE:
 Run "CmdCleaner". Configuration is set via a menu. The settings are automatically saved when executed. The options are:
 
 	[User]
@@ -18,11 +19,9 @@ Run "CmdCleaner". Configuration is set via a menu. The settings are automaticall
 	Windows Memory Diagnostic Tool
 	Windows Performance Monitoring Tool
 
-INFORMATION:
 For Windows operating systems over v6.1 (and server versions). Program start possible with parameters:
 
 	/! = Perform cleanup
 	/? = View information
 
-HINT:
 Use AdwCleaner for problems with Adware, Toolbars, Hijacker, etc. https://www.malwarebytes.com/adwcleaner/
