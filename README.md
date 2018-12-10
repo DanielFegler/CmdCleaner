@@ -25,8 +25,7 @@ For Windows operating systems over v6.1 (and server versions). Program start pos
 	/? = View information
 
 HINT:
-Use AdwCleaner for problems with Adware, Toolbars, Hijacker, etc.
-Website = https://www.malwarebytes.com/adwcleaner/
+Use AdwCleaner for problems with Adware, Toolbars, Hijacker, etc. https://www.malwarebytes.com/adwcleaner/
 
 
 
@@ -57,5 +56,4 @@ Für Windows Betriebssysteme ab v6.1 geeignet (auch Server-Versionen). Programms
 	/? = Informationen anzeigen
 
 TIPP:
-Bei Adware, Toolbars, Hijacker, usw. AdwCleaner verwenden. 
-Webseite = https://de.malwarebytes.com/adwcleaner/
+Bei Adware, Toolbars, Hijacker, usw. AdwCleaner verwenden. https://de.malwarebytes.com/adwcleaner/
